@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {}
+    "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {
+    "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
         "projectName": "moduloAPI",
-        "projectPath": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
+        "projectPath": "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\obj\\",
+        "outputPath": "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

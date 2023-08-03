@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hLxLMa7gWf9ZYIWE2/wfSpAXIo/jKiKroLKiY17U9rf5xOtCGr5gnFGcjEQhasZh6IuhaqXbuoOcwe4/Nqk4+Q==",
+  "dgSpecHash": "jYrwdV9MRdz8qg0YhbQpfkHVpC+rcKSVvrRUKy/k87SbZLGy6Wt9Xevf5GJUIU19MKnnSnlcbxm0oTtAMShPjQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
