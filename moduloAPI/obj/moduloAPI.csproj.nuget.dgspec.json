@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\moduloAPI\\moduloAPI.csproj": {}
+    "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\moduloAPI\\moduloAPI.csproj": {
+    "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\moduloAPI\\moduloAPI.csproj",
+        "projectUniqueName": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
         "projectName": "moduloAPI",
-        "projectPath": "C:\\Users\\andre\\Desktop\\moduloAPI\\moduloAPI.csproj",
+        "projectPath": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\moduloAPI.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\moduloAPI\\obj\\",
+        "outputPath": "c:\\Users\\andre\\Desktop\\modulo-API-Trilha-NET\\moduloAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,6 +42,16 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.9, )"
             },
