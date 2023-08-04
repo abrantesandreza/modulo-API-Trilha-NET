@@ -19,13 +19,13 @@ namespace moduloAPI.Controllers
             _dbContext = dbContext;
         }
 
-        [HttpPost("CriarContato")]
+        [HttpPost]
         public IActionResult Create(Contato contato)
         {
             _dbContext.Add(contato);
             _dbContext.SaveChanges();
             
-            return Ok(contato);
+            return CreatedAtAction(nameof(ObterPorId), new { id = contato.Id }, contato);
         }
 
         [HttpGet("{id}")]
